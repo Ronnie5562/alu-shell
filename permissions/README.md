@@ -2,7 +2,7 @@
 ![OIG](https://github.com/Ronnie5562/alu-shell/assets/110787129/6edbb738-bbe0-4bdc-8627-039c3e1d49cb)
 ## Resources
 ### Read or watch:
-- [http://linuxcommand.org/lc3_lts0090.php](Permissions)
+- [Permissions](http://linuxcommand.org/lc3_lts0090.php)
 #### man or help:
 - chmod
 - sudo
