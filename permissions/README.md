@@ -29,3 +29,5 @@
 
 ![download](https://github.com/Ronnie5562/alu-shell/assets/110787129/98db0d12-6655-4490-b7d7-6ba41a504f86)
 ![download](https://github.com/Ronnie5562/alu-shell/assets/110787129/8117ee8d-eeea-4988-a932-2ae662467765)
+### Author:
+[Ronald Abimbola](https://www.linkedin.com/in/abimbola-ronald-977299224/)
