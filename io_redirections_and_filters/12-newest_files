@@ -1,1 +1,2 @@
-#!/bin/bash\nls -tc | head -2
+#!/bin/bash
+ls -tc | head -2
