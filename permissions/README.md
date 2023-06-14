@@ -1,5 +1,6 @@
 # Shell, permissions
-![OIG](https://github.com/Ronnie5562/alu-shell/assets/110787129/6edbb738-bbe0-4bdc-8627-039c3e1d49cb)
+https://github.com/Ronnie5562/alu-shell/assets/110787129/55db4e48-5284-48a1-836d-70b5c53875e9
+
 ## Resources
 ### Read or watch:
 - [Permissions](http://linuxcommand.org/lc3_lts0090.php)
