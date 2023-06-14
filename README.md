@@ -1,5 +1,6 @@
 # Shell basics
-![image](https://github.com/Ronnie5562/alu-shell/assets/110787129/62642596-1f54-42ad-836d-b0d2b5c02134)
+
+https://github.com/Ronnie5562/alu-shell/assets/110787129/55db4e48-5284-48a1-836d-70b5c53875e9
 ## Resources
 **Read or watch:**
 - [What Is “The Shell”?](http://linuxcommand.org/lc3_lts0010.php)
