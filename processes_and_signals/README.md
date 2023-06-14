@@ -1,10 +1,5 @@
 # Shell, processes and signals
-
-<video autoplay muted controls>
-  <source src="./matrix.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/Ronnie5562/alu-shell/assets/110787129/9749f70c-2235-4007-9186-9a8fd9e2a860
 ## Resources
 ### Read or watch:
 - [Linux PID](http://www.linfo.org/pid.html)
