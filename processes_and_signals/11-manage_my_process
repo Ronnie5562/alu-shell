@@ -17,7 +17,7 @@
 #   Else, displays  "Usage: manage_my_process {start|stop|restart}"
 
 killer() {
-    kill "$(pgrep -f /manage_my_process)"; rm /var/run/my_process.pid
+    kill "$(pgrep -f manage_my_process)"; rm /var/run/my_process.pid
 }
 if [[ "$1" == "start" ]]
 then
