@@ -18,7 +18,7 @@
 
 killer() {
     kill "$(pgrep -f /manage_my_process)"
-    rm /var/run/my_process.pid
+    chmod 777 /var/run/my_process.pid; rm /var/run/my_process.pid
 }
 
 if [[ "$1" == "start" ]]
