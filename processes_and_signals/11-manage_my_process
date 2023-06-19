@@ -18,8 +18,7 @@
 
 killer() {
     kill "$(pgrep -f /manage_my_process)"
-    rm /var/run/my_process.pid
-    echo "Good"
+    rm /var/run/my_process.pid && echo "Good"
 }
 
 if [[ "$1" == "start" ]]
@@ -29,8 +28,7 @@ then
     echo "manage_my_process started"
 elif [[ "$1" == "stop" ]]
 then
-    killer
-    echo "manage_my_process stopped"
+    killer; echo "manage_my_process stopped"
 elif [[ "$1" == "restart" ]]
 then
     killer; ./manage_my_process &
