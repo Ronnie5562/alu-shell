@@ -18,7 +18,7 @@
 
 killer() {
     kill "$(pgrep -f /manage_my_process)"
-    sudo rm -f /var/run/my_process.pid &
+    rm -f /var/run/my_process.pid &
 }
 
 if [[ "$1" == "start" ]]
